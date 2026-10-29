@@ -6,6 +6,15 @@ ParkFinder is a SwiftUI iPhone app with CarPlay support. It merges Apple Maps pa
 
 Black-and-gold design throughout, including a dark, muted map with custom gold pins. Liquid Glass on iOS 26+, with a matching material fallback on iOS 17–18.
 
+
+<img width="409" height="819" alt="Screenshot 2026-10-29 at 12 31 09 PM" src="https://github.com/user-attachments/assets/3ef61621-7152-4bfa-ac9c-32fe943a6854" />
+
+<img width="393" height="815" alt="Screenshot 2026-10-29 at 12 31 45 PM" src="https://github.com/user-attachments/assets/7cb0ef4e-e697-4895-a14a-7ff21047d932" />
+
+<img width="385" height="822" alt="Screenshot 2026-10-29 at 12 32 29 PM" src="https://github.com/user-attachments/assets/c558bd89-8d22-4447-ac9e-0689a4af449e" />
+
+
+
 ---
 
 ## Features
